@@ -1,0 +1,19 @@
+{
+  "name": "mflorida.dev",
+  "version": "1.0.0",
+  "description": "Shameless self-promotional website",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mflorida/mflorida.dev.git"
+  },
+  "author": "Mark M. Florida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mflorida/mflorida.dev/issues"
+  },
+  "homepage": "https://github.com/mflorida/mflorida.dev#readme"
+}
